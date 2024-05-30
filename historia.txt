@@ -3,5 +3,5 @@ que cuenta una historia
 con el fin de crear un repo y realizar commits y mas
 cambio de correo 
 cambio de rama
-vamos por otro commit
+vamos por otro commit,
 
